@@ -35,7 +35,8 @@ Existem muitos tipos diferentes de sistemas de aprendizado de máquina, por isso
 - **[Aprendizado Online e em Lote](#Introdução)**<br>
 - **[Aprendizado Baseado em Instância Versus Aprendizado Baseado em Modelo](#Introdução)**<br>
 
-### **Aprendizado Supervisionado/Não Supervisionado**
+## **Aprendizado Supervisionado/Não Supervisionado**
+
 Os sistemas de aprendizagem podem ser classificados de acordo com a quantidade e o tipo de supervisão que recebem durante o treinamento. Sendo eles:
 
 ### **Aprendizado Supervisioado**
@@ -43,6 +44,12 @@ Os sistemas de aprendizagem podem ser classificados de acordo com a quantidade e
 Esse itpo de aprendizagem é quando tentamos prever uma variavel dependente a partir de uma lista **rótulos**. Ou seja, os dados são anotados com as respostas ou classes a serem previstas.
 
 Uma das técnicas mais conhecidas para resolver problemas de aprendizado supervisionado estão regressão linear, regressão logística, redes neurais artificiais, máquina se suporte vetorial (ou máquinas kernel), árvores de decisão, k-vizinhos mais próximos e Bayes ingênuo.
+
+| Aplicações   | 
+| ------------- |
+| Spam | 
+| Atribuição de Notas|
+|Gestão de Riscos|  
 
 
 ### **Aprendizagem Não Supervisionado**
@@ -70,3 +77,14 @@ A maior parte dos deles são combinações de algoritmos supervisionados e não 
 
 Nessa abordagem, a máquina tenta aprender por sí só qual é a melhor ação a ser tomada, dependendo das circunstâncias na qual essa ação será executada. 
 O que define a ação toamada em uma determinada situação é através da estratégia escolhida, chamada de **política**,  em que dependendo da decisão tomada, espera-se que o agente consiga associar as ações que geram maior recompensa para cada situação que o ambiente apresenta, e passe a evitar as ações que geram punição ou recompensa menor. Assim,Esse processo de visualização dos melhores cenários futuros é realizado repetidamente até que a máquina seja capaz de escolher a melhor ação a ser tomada para cada um dos cénarios possíveis a serem observados. 
+
+Exemplos:
+| Aplicações   | 
+| ------------- |
+| Xadrez| 
+| Automação de Movimentos|  
+
+## **Aprendizado Online e em Lote**
+
+
+## **Aprendizado Baseado em Instância VS Aprendizado Baseado em Modelo**
