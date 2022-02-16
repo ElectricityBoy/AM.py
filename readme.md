@@ -1,6 +1,6 @@
 <img src="https://media3.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" align="right" width = "150"/>
 
-# GRUPO DE ESTUDOS - Aprendizagem de Máquina
+# Aprendizagem de Máquina
 > ArtIEEEficiais - IEEE UFBA
 ### Súmario
 
